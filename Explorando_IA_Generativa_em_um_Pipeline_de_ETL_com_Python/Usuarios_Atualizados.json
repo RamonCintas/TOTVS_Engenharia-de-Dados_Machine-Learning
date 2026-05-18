@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Silva",
+    "account": {
+      "balance": 1500.75
+    },
+    "news": [
+      {
+        "icon": "💰",
+        "description": "Ana, pronta para crescer? Impulsione seu futuro financeiro com nossas soluções personalizadas."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Carlos Souza",
+    "account": {
+      "balance": 8200.0
+    },
+    "news": [
+      {
+        "icon": "💰",
+        "description": "Carlos, maximize seus retornos. Oportunidades exclusivas aguardam seu patrimônio."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mariana Costa",
+    "account": {
+      "balance": 350.4
+    },
+    "news": [
+      {
+        "icon": "💰",
+        "description": "Mariana, dê o primeiro passo para um futuro financeiro brilhante. Estamos aqui!"
+      }
+    ]
+  }
+]
